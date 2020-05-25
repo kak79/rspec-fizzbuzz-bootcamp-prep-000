@@ -25,7 +25,7 @@ def fizzbuzz(number)
 
     number % 5 == 0 && number % 3 == 0
   
-    "FizzBuzz"
+    
     
   else
     
