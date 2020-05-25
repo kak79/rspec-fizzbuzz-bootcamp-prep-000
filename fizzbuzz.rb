@@ -5,7 +5,7 @@
 #When I call that method and pass it a number divisible by 3 and 5, that method should return the string "FizzBuzz".
 #When I call that method and pass it a number not divisible by 3 or 5, that method should return nil.
 
-def fizzbuzz(number)?
+def fizzbuzz(number)
   
   if
     
