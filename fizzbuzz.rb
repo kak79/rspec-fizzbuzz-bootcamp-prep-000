@@ -17,19 +17,19 @@ def fizzbuzz(number)
 
     number % 5 == 0 
     
-    puts "Buzz"
+    "Buzz"
     
   elsif
 
     number % 15 == 0 
   
-    puts "FizzBuzz"
+    "FizzBuzz"
     
   else
     
     number % 15 != 0
     
-    puts "nil"
+    "nil"
    
  end
 end
