@@ -31,4 +31,6 @@ def fizzbuzz(number)
     
     put "nil"
    
+ end
 end
+
