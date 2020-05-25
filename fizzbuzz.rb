@@ -21,7 +21,7 @@ def fizzbuzz(number)
     
   elsif
 
-    number % 15 == 0 
+    number % 5 == 0 && 
   
     "FizzBuzz"
     
