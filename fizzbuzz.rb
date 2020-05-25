@@ -11,7 +11,7 @@ def fizzbuzz(number)
     
     number % 3 == 0 
     
-    puts "Fizz"
+    "Fizz"
   
   elsif
 
